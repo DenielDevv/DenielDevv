@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dennyel</h1>
 <h3 align="center">A passionate developer from Hungary.</h3>
 
+<a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinnyedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="dinnyedeveloper" /> </p>
 
 <h3 align="left">Connect with me:</h3>
