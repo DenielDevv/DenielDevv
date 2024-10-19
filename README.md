@@ -22,7 +22,7 @@ Hi!<br>I'm Deniel. 20 years old, a beginner developer.<br>I have been developing
 [![](https://visitcount.itsvg.in/api?id=DenielDevv&icon=0&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://patreon.com/WMDevOFF?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/WMDevOFF?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
