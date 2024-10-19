@@ -3,7 +3,6 @@ Hi!<br>I'm Deniel. 20 years old, a beginner developer.<br>I have been developing
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1040574642005495818)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1040574642005495818)
 
 # 💻 Tech Stack:
