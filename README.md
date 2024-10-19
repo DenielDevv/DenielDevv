@@ -15,9 +15,9 @@
 
 <h3 align="center">🤗・About me</h3>
 <p align="center">Hi!
-I'm Deniel. 20 years old, a beginner developer.
-I have been developing systems since I was almost 14, for myself and others.
-I can currently program in the following languages. Which you can see here in my profile. But I am constantly learning new and new things.
+I'm Deniel. 20 years old, a beginner developer.<br>
+I have been developing systems since I was almost 14, for myself and others.<br>
+I can currently program in the following languages. Which you can see here in my profile. But I am constantly learning new and new things.<br>
 If you want to have your own system in one of the languages already listed. Feel free to contact me privately and we can discuss.</p>
 
 
