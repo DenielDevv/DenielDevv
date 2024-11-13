@@ -41,6 +41,63 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="5" alt="Line">
 </div>
 
+<!-- About Me Code Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="30" alt="Star">
+    About Me in Code
+    <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="30" alt="Star">
+  </h2>
+
+  <!-- Code Block with Syntax Highlighting -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="5">
+        <pre><code class="language-typescript">
+// src/profile/DenielDev.ts
+class DenielDev extends DigitalArtist {
+    readonly name = "Deniel 🧙‍♂️";
+    readonly age = 20;
+    readonly location = "Hungary 🇭🇺";
+    readonly yearsOfExperience = 6;
+    
+    private readonly _passions = [
+        "Creating Digital Experiences 🎨",
+        "System Architecture Design 🏗️",
+        "Problem Solving 🧩",
+        "Continuous Learning 📚"
+    ];
+    
+    private readonly _techStack = {
+        languages: ["TypeScript", "JavaScript", "Python", "Java", "PHP", "Lua"],
+        frontend: ["React", "Next.js", "HTML5", "CSS3", "SASS"],
+        backend: ["Node.js", "Express", "NestJS", "Firebase"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        tools: ["Docker", "Git", "AWS", "Figma", "VS Code"],
+        architecture: ["Microservices", "REST", "GraphQL"]
+    };
+    
+    public getCurrentFocus(): string[] {
+        return [
+            "Advanced System Architecture 🏗️",
+            "AI Integration in Applications 🤖",
+            "Cloud Native Development ☁️",
+            "Performance Optimization 🚀"
+        ];
+    }
+    
+    public getLifePhilosophy(): string {
+        return "Code is poetry, and I'm here to write epics! 📝✨";
+    }
+}
+        </code></pre>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="5">
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="5" alt="Line">
 </div>
